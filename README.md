@@ -1,10 +1,10 @@
-<h1 align="center">👋</h1>
+<h1>👋</h1>
 
-<p align="center">
+<p">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi!+👋;As-salamu+alaykum!+🕌;Namaste!+🙏;Hola!+🌞;Bonjour!+🥐;Hallo!+🇩🇪;Ciao!+🍕;Konnichiwa!+🍣;Annyeonghaseyo!+🇰🇷;Merhaba!+🇹🇷;Salam!+🌙;Sawasdee!+🇹🇭;Zdravstvuyte!+🇷🇺;Nǐ+Hǎo!+🇨🇳;Hej!+🇸🇪;Olá!+🇧🇷;Hello!+🌎" alt="Multilingual Hi Animation" />
 </p>
 
-<h2 align="center">I'm Nida — i code </h2>
+<h2>I'm Nida — i code </h2>
 
 ---
 
@@ -53,6 +53,6 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" />
+  <img src="https://github.com/Nidairshad/Nidairshad/blob/main/acha_bhai_ab_mai_chalta_hun.jpg" width="400" />
 </p>
 
