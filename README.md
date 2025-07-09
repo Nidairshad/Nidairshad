@@ -1,6 +1,6 @@
 <h1>👋</h1>
 
-<p">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi!+👋;As-salamu+alaykum!+🕌;Namaste!+🙏;Hola!+🌞;Bonjour!+🥐;Hallo!+🇩🇪;Ciao!+🍕;Konnichiwa!+🍣;Annyeonghaseyo!+🇰🇷;Merhaba!+🇹🇷;Salam!+🌙;Sawasdee!+🇹🇭;Zdravstvuyte!+🇷🇺;Nǐ+Hǎo!+🇨🇳;Hej!+🇸🇪;Olá!+🇧🇷;Hello!+🌎" alt="Multilingual Hi Animation" />
 </p>
 
