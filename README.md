@@ -12,8 +12,8 @@
 - 🎓 I'm studying Software Engineering  
 - 💻 Currently learning frontend technologies and with backend js and react..
 - 🚀 Building beginner-friendly Java desktop projects 
-- 😸 Fun fact: I also do video editing and some make some memes
-- 🎨 I enjoy painting, photography, gardening , (literature and philosophy sometime when i am sad though)  
+- 😸 Fun fact: I also do video editing and make some memes
+- 🎨 I enjoy painting, photography, gardening , (literature and philosophy sometimes when i am sad though)  
 - 🤝 Open to collaborations and team projects(کوئی نوکری دے دے، محنت کرنے کو تیار ہوں)
 
 ---
