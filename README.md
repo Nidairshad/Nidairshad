@@ -13,8 +13,8 @@
 - Currently learning frontend technologies and with backend js and react..
 -  Building beginner-friendly Java desktop projects 
 - 😸 Fun fact: I also do video editing and make some memes
--  I enjoy painting, photography, gardening , (literature and philosophy sometimes when i am sad though)  
-- (کوئی نوکری دے دے، محنت کرنے کو تیار ہوں)
+-   I also enjoy painting, photography, gardening , (literature and philosophy sometimes when i am sad though)  
+  
 
 ---
 
@@ -57,6 +57,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/Nidairshad/Nidairshad/blob/main/acha_bhai_ab_mai_chalta_hun.jpg" width="400" />
 </p>
 
