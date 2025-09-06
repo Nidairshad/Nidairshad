@@ -36,10 +36,15 @@
 ---
 
 ### languages(for intearction purposes)
+
 -Urdu(mother toungue ) C2 level obv
+
 -English  C1 level
+
 -Arabic  A1 level 
+
 -german A1 level (ja genau A1 )
+
 -can understand sindhi and punjabi too (all dialects!!)
 
 ### 📊 GitHub Stats
