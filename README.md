@@ -33,9 +33,11 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
-### languages(for intearction purposes)
+### languages (for interaction purposes)
 
 -Urdu(mother toungue ) C2 level obv
 
