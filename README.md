@@ -11,8 +11,8 @@
 
 - 🎓 I'm studying Software Engineering  
 - Currently learning frontend technologies and with backend js and react..
--  Building beginner-friendly Java desktop projects 
-- 😸 Fun fact: I also do video editing and make some memes
+-  focusing on problem solving techinques..
+- 😸 Fun fact: I also do designing , video editing and make some memes
 -   I also enjoy painting, photography, gardening , (literature and philosophy sometimes when i am sad though)  
   
 
@@ -35,6 +35,13 @@
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ---
 
+### languages(for intearction purposes)
+-Urdu(mother toungue ) C2 level obv
+-English  C1 level
+-Arabic  A1 level 
+-german A1 level (ja genau A1 )
+-can understand sindhi and punjabi too (all dialects!!)
+
 ### 📊 GitHub Stats
 
 ![Nidairshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidairshad&show_icons=true&theme=tokyonight)
@@ -46,6 +53,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nidairshad&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
+
+
 
 ### 📫 Contact Me
 
