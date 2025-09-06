@@ -12,7 +12,7 @@
 - 🎓 I'm studying Software Engineering  
 - Currently learning frontend technologies and with backend js and react..
 -  focusing on problem solving techinques..
-- 😸 Fun fact: I also do designing , video editing and make some memes
+- 😸 Fun fact: I also do =video editing and make some memes
 -   I also enjoy painting, photography, gardening , (literature and philosophy sometimes when i am sad though)  
   
 
