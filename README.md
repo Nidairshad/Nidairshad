@@ -47,8 +47,6 @@
 
 -german A1 level (ja genau A1 )
 
--can understand sindhi and punjabi too (all dialects!!)
-
 ### 📊 GitHub Stats
 
 ![Nidairshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidairshad&show_icons=true&theme=tokyonight)
