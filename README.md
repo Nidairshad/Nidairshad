@@ -1,5 +1,5 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Hello+World!+I'm+Nida+👋;A+Software+Engineer+;Loves+Debugging;+funfact+:+I+also+do+video+Editing;and+sometimes+make+memes+too😲)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Hello+World!+I'm+Nida+👋)](https://git.io/typing-svg)
 
 ---
 
