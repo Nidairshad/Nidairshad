@@ -47,19 +47,6 @@
 
 <br/>
 
-<!-- Streak Statistics -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nidairshad&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
-<br/>
-
-<!-- Animated Coding GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation" />
-</div>
-
-<br/>
 
 
 <!-- Animated Footer -->
