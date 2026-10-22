@@ -61,19 +61,6 @@
 
 <br/>
 
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidairshad&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub activity graph" />
-</div>
-
-<br/>
-
-<!-- Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nidairshad/Nidairshad/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
-</div>
-
-<br/>
 
 <!-- Animated Footer -->
 <div align="center">
