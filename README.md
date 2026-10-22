@@ -1,4 +1,4 @@
-## ⚡ Skills & Technologies
+## Skills 
 
 <!-- Animated Typing Header -->
 <div align="center">
@@ -16,13 +16,13 @@
 
 <br/>
 
-### 💻 Languages & Frameworks
+###  Languages & Frameworks
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cs,java,dotnet,html,css,js,react&perline=9&theme=dark" alt="Languages and frameworks" />
 </div>
 
-### ⚙️ Tools & Technologies
+###  Technologies
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,bash,docker,nodejs,postgres,nginx,postman,vscode,blender&perline=9&theme=dark" alt="Tools and technologies" />
@@ -37,15 +37,8 @@
 
 <br/>
 
-<!-- Animated Coding GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation" />
-</div>
-
-<br/>
 
 <!-- GitHub Stats -->
-## 📊 GitHub Statistics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nidairshad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
@@ -57,6 +50,13 @@
 <!-- Streak Statistics -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nidairshad&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+<br/>
+
+<!-- Animated Coding GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation" />
 </div>
 
 <br/>
